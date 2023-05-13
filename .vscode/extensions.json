@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    // Voer dit ook uit: https://vuejs.org/guide/typescript/overview.html#volar-takeover-mode
+    "vue.volar",
+    "vscode-icons-team.vscode-icons",
+    "zixuanchen.vitest-explorer",
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold",
+    "esbenp.prettier-vscode",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "mikestead.dotenv"
+  ]
+}
