@@ -1,0 +1,56 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "name": "Adam" 
+    },
+    {
+      "id": 1,
+      "name": "Eva"
+    },
+    {
+      "id": 2,
+      "name": "vrouw2"
+    },
+    {
+      "id": 3,
+      "name": "Kain"
+    },
+    {
+      "id": 4, 
+      "name": "Abel"
+    }
+  ],
+  "relationships": [
+    {
+      "from": 0,
+      "to": 1,
+      "type": "husband_wife"
+    },
+    {
+      "from": 0,
+      "to": 2,
+      "type": "husband_wife"
+    },
+    {
+      "from": 0,
+      "to": 3,
+      "type": "child"
+    },
+    {
+      "from": 0,
+      "to": 4,
+      "type": "child"
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "type": "child"
+    },
+    {
+      "from": 1,
+      "to": 4,
+      "type": "child"
+    }
+  ]
+}
